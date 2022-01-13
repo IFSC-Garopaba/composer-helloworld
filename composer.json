@@ -1,0 +1,17 @@
+{
+    "name": "ifsc-garopaba/composer-helloworld",
+    "description": "projeto did\u0000tico para envio no github e packagist",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IfscGaropaba\\ComposerHelloworld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miguel",
+            "email": "miguelfzarth@gmail.com"
+        }
+    ],
+    "require": {}
+}
